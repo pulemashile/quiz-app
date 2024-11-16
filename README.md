@@ -1,6 +1,7 @@
 README.md
-markdown
-Copy code
+markdown![node lesson 2](https://github.com/user-attachments/assets/ae81e9f4-4187-456b-8d61-35991d4fb9c0)
+
+
 # Node.js Quiz Application
 
 This is a simple Node.js-based quiz application that tests your knowledge of Node.js and React. The quiz includes a set of questions with multiple-choice options. The user has a limited amount of time to answer each question, and the application provides feedback based on the answers.
@@ -84,6 +85,5 @@ markdown
 4. **How It Works**: A description of the application's functionality and example output.
 
 
-c:\Users\Training03\Pictures\node lesson 2.png
 
 
